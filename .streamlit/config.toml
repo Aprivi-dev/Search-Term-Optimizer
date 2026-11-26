@@ -1,0 +1,10 @@
+[server]
+headless = true
+port = 8080
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#1A73E8"
