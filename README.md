@@ -1,4 +1,4 @@
-# Search-Term-Optimizer# Guide de Search Term Optimizer
+Guide de Search Term Optimizer
 
 Ce document explique à quoi sert l'outil, comment il fonctionne en détail et répond aux questions les plus probables. Pour l'installation et le déploiement, voir le [README](../README.md).
 
