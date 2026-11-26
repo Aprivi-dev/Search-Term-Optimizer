@@ -1,0 +1,14 @@
+Search Term Optimizer
+
+Ce projet s'inspire très largement de Negative Keyword Cleaner, publié par
+Google (google-marketing-solutions) sous licence Apache 2.0 :
+https://github.com/google-marketing-solutions/negative_keyword_cleaner
+
+Repris de ce projet : le principe de « l'étudiant IA » (lots validés par un humain
+et réinjectés dans le prompt), le résumé du site de l'annonceur comme contexte,
+les prompts positif et négatif, le score de priorité, la sortie structurée Gemini,
+les exports au format Google Ads Editor et la structure du déploiement Cloud Run
+(Terraform adapté). Le code a été réécrit ; aucune garantie de Google ne s'y attache.
+
+Negative Keyword Cleaner n'est pas un produit officiellement supporté par Google,
+et Search Term Optimizer n'est ni affilié à Google ni approuvé par Google.
